@@ -1,0 +1,6 @@
+How to download Joe Bart's Minecraft modpack. (This modpack has a few more mods than Joe Bart's but basically the same)
+1. Right click the PowerShell file and click Run with PowerShell
+2. It will download the mods into your desktop in a folder called Joe Bart's Mods
+3. There is a file called ReadMe.txt in this folder that will tell you how to install the modpack with ATLauncher
+
+If you want to check the PowerShell file to make sure that it has nothing bad inside it, you can just right click it and open with NotePad and you can see what it does.
